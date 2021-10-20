@@ -1,12 +1,11 @@
 
-# Luke Vercelli
-Please dont copy code and not give gredit to the OG creator
+# Senpiia
+Please dont copy code and don't give credit
 
-Kahoot Bot is a program especially designed to make people confused.
+The Kahoot Bot is a program especially designed to make people confused.
 Great for April fools pranks and jokes.
 
 ## Installation
-If you want the exe for quick use, please contact the developer at Lukevercelli@icloud.com
 
 To run the source on your computer or you are not on windows, do the following:
 - Download node.js
